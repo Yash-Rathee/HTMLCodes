@@ -1,0 +1,31 @@
+h2 {
+    color: red;
+}
+#one {
+    color: blue;
+}
+.two {
+    color: rgb(102, 11, 102);
+}
+#three {
+    color: rgb(235, 156, 10);
+}
+#four {
+    color: rgb(12, 131, 127);
+    text-decoration: underline;
+}
+#five {
+    color: rgb(168, 107, 32);
+}
+#six {
+    color: chartreuse;
+}
+.seven {
+    color: forestgreen;
+}
+.eight {
+    color: rgb(190, 190, 28);
+}
+.nine {
+    color: palevioletred;
+}
