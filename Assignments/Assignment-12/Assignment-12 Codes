@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style3.css">
+    <title>Document</title>
+</head>
+<body bgcolor="black">
+    <h1>Jacob William</h1>
+    <h1>Junior Editorial Assistant</h1>
+    <h2>About:</h2>
+    <p class="two">
+        To describe <span class="one">someone's height</span>, you can say that they are tall or short. Tall people are higher than short people. Someone who is thin and tall can be called lanky. To say someone is short and also small, you can say they are petite. If you're talking about a child, they might be pint-sized.
+    </p>
+    <br>
+    <p class="one">
+        Someone who weighs more than <span class="two">average can be curvy, well-built, full-bodied</span> or heavy(curvy is usually used to descrbe women.).You might say someone has meat on their on bones. This is a casual way of saying they are overweight, and it might seem rude to someone sensitive. The opposite of overweight can be thin, slim or skinny.
+    </p>
+    <br>
+    <p class="two">
+        Light <span class="one">yellowish hair</span> can be described as blonde. But you can also call a person who has that kind of hair a blonde (This means blonde can be used as a noun or an adjective). A person with dark hair can be called a brunette. Someone with red hair can be called a redhead.
+    </p>
+    <br>
+    <p class="one">
+        Besides what color someone's hair is, <span class="two">you also can say they are short-haired or long-haired.</span> You can say they have curlt, straight or wavy hair. Sometimes hair can also be frizzy, which is when it looks puffy with small, tight curls. If someone has no hair at all on their head, they are bald.
+    </p>
+    <br>
+    <p class="three">
+        IF SOMEONE DRESSES WELL, <span class="one">THEY ARE SMARTLY DRESSED</span> OR THEY LOOK SMART. YOU CAN ALSO JUST SAY THEY ARE WELL-DRESSED. IF SOMEONE DRESSES FASHIONABLY, THEY ARE STYLISH OR TRENDY. IF SOMEONE HAS BAD TASTE IN CLOTHES, YOU CAN SAY THEY ARE UNFASHIOABLE.A LESS NICE WAY TO SAY THIS IS FRUMPY.
+    </p>
+    <BR>
+    <P class="four">
+        Many people have mannerisms that appear when they're felling negative(bad) emotions. If someone feels nervous or impatient, for example, they might tap their fingers, crack their knuckles, bite their finernails or chew the tips of their pencils.
+    </P>
+</body>
+</html>
