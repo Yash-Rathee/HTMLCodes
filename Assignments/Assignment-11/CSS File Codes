@@ -1,0 +1,40 @@
+#one {
+    color: white;
+    background-color: palevioletred;
+    text-align: center;
+    font-family: 'Mr Dafoe', cursive;
+}
+#two {
+    text-decoration: none;
+}
+#three {
+    color: rgb(197, 44, 44);
+}
+#four {
+    letter-spacing: 4px;
+    word-spacing: 2px;
+}
+#five {
+    text-align: right;
+    text-decoration: overline;
+    color: rgb(114, 200, 235);
+}
+#six {
+    word-spacing: 20px;
+    text-align: right;
+    font-family: 'Lobster Two', cursive;
+    line-height: 40px;
+}
+#eight{
+    text-align: center;
+    background-color: steelblue;
+    color: rgba(212, 199, 9, 0.911);
+}
+#nine {
+    text-decoration: line-through;
+}
+#ten {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    text-align: right;
+}
